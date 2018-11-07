@@ -1,5 +1,5 @@
 var files = [
-  "/pwa/index.html",
+  "/final/index.html",
   "/pwa/manifest.json",
   "/pwa/styles/inline.css"
 ];
