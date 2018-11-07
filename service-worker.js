@@ -1,7 +1,7 @@
 var files = [
-  "/final/index.html",
-  "/final/manifest.json",
-  "/final/styles/inline.css"
+  "/pwa/index.html",
+  "/pwa/manifest.json",
+  "/pwa/styles/inline.css"
 ];
 // dev only
 if (typeof files == 'undefined') {
